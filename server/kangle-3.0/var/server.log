@@ -1,0 +1,813 @@
+Sun 18 Nov 13:56:49|Cann't listen *:80[tcp4] for http ,errno=22
+Sun 18 Nov 13:56:49|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 13:56:49|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 13:56:49|Start success [pid=3404].
+Sun 18 Nov 13:58:04|now create process ["E:\qsvr\kangle\bin\extworker.exe" "../../php/php-cgi.exe"]
+Sun 18 Nov 14:30:44|listen *:80[tcp4] for http success
+Sun 18 Nov 14:30:44|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 14:30:44|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 14:30:44|Start success [pid=3300].
+Sun 18 Nov 14:30:50|cann't accept connect,errno=No error
+Sun 18 Nov 14:30:50|cann't accept connect,errno=No error
+Sun 18 Nov 14:30:50|cann't accept connect,errno=No error
+Sun 18 Nov 14:31:56|listen *:80[tcp4] for http success
+Sun 18 Nov 14:31:56|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 14:31:56|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 14:31:56|Start success [pid=440].
+Sun 18 Nov 14:32:25|[ADMIN_FAILED]127.0.0.1:3618 /
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3618 /
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3618 /left_menu
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3619 /main
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3618 /logo.gif
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3619 /kangle.css
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3621 /kangle.css
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3618 /favicon.ico
+Sun 18 Nov 14:32:31|[ADMIN_SUCCESS]127.0.0.1:3619 /favicon.ico
+Sun 18 Nov 14:32:33|[ADMIN_SUCCESS]127.0.0.1:3618 /accesslist?access_type=0
+Sun 18 Nov 14:32:33|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:32:35|[ADMIN_SUCCESS]127.0.0.1:3618 /accesslist?access_type=1
+Sun 18 Nov 14:32:35|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:32:37|[ADMIN_SUCCESS]127.0.0.1:3618 /acserver
+Sun 18 Nov 14:32:37|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:32:41|[ADMIN_SUCCESS]127.0.0.1:3618 /extends?item=3
+Sun 18 Nov 14:32:41|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:32:42|[ADMIN_SUCCESS]127.0.0.1:3618 /extends?item=2
+Sun 18 Nov 14:32:42|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:32:43|[ADMIN_SUCCESS]127.0.0.1:3618 /extends?item=4
+Sun 18 Nov 14:32:44|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:32:52|[ADMIN_SUCCESS]127.0.0.1:3618 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 14:32:52|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:32:58|[ADMIN_SUCCESS]127.0.0.1:3618 /vhslist
+Sun 18 Nov 14:32:58|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:33:00|[ADMIN_SUCCESS]127.0.0.1:3618 /process
+Sun 18 Nov 14:33:00|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:33:02|[ADMIN_SUCCESS]127.0.0.1:3618 /vhslist
+Sun 18 Nov 14:33:02|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:33:06|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?id=0&name=default&t=0
+Sun 18 Nov 14:33:06|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:33:33|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist
+Sun 18 Nov 14:33:33|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:33:37|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?id=0&name=webadmin&t=0
+Sun 18 Nov 14:33:37|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:33:56|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=8
+Sun 18 Nov 14:33:56|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:00|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=5
+Sun 18 Nov 14:34:00|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:01|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=3
+Sun 18 Nov 14:34:01|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:02|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=1
+Sun 18 Nov 14:34:02|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:03|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=2
+Sun 18 Nov 14:34:03|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:04|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=3
+Sun 18 Nov 14:34:04|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:05|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=1
+Sun 18 Nov 14:34:05|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:05|[ADMIN_SUCCESS]127.0.0.1:3618 /vhlist?name=webadmin&id=2
+Sun 18 Nov 14:34:05|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:52|[ADMIN_SUCCESS]127.0.0.1:3618 /
+Sun 18 Nov 14:34:52|[ADMIN_SUCCESS]127.0.0.1:3618 /left_menu
+Sun 18 Nov 14:34:52|[ADMIN_SUCCESS]127.0.0.1:3625 /main
+Sun 18 Nov 14:34:52|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:52|[ADMIN_SUCCESS]127.0.0.1:3618 /logo.gif
+Sun 18 Nov 14:34:52|[ADMIN_SUCCESS]127.0.0.1:3618 /kangle.css
+Sun 18 Nov 14:34:54|[ADMIN_SUCCESS]127.0.0.1:3618 /reboot
+Sun 18 Nov 14:34:54|[ADMIN_SUCCESS]127.0.0.1:3618 /reboot_submit?s=1353220494&r=41
+Sun 18 Nov 14:34:54|cann't accept connect,errno=No error
+Sun 18 Nov 14:34:54|cann't accept connect,errno=No error
+Sun 18 Nov 14:34:54|cann't accept connect,errno=No error
+Sun 18 Nov 14:34:54|listen *:80[tcp4] for http success
+Sun 18 Nov 14:34:54|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 14:34:55|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 14:34:55|Start success [pid=1456].
+Sun 18 Nov 14:34:57|[ADMIN_SUCCESS]127.0.0.1:3628 /
+Sun 18 Nov 14:34:57|[ADMIN_SUCCESS]127.0.0.1:3628 /left_menu
+Sun 18 Nov 14:34:57|[ADMIN_SUCCESS]127.0.0.1:3629 /main
+Sun 18 Nov 14:34:58|[ADMIN_SUCCESS]127.0.0.1:3629 /kangle.css
+Sun 18 Nov 14:34:58|[ADMIN_SUCCESS]127.0.0.1:3628 /logo.gif
+Sun 18 Nov 14:34:58|[ADMIN_SUCCESS]127.0.0.1:3628 /kangle.css
+Sun 18 Nov 14:34:59|[ADMIN_SUCCESS]127.0.0.1:3628 /accesslist?access_type=1
+Sun 18 Nov 14:34:59|[ADMIN_SUCCESS]127.0.0.1:3628 /kangle.css
+Sun 18 Nov 14:34:59|[ADMIN_SUCCESS]127.0.0.1:3628 /accesslist?access_type=0
+Sun 18 Nov 14:34:59|[ADMIN_SUCCESS]127.0.0.1:3628 /kangle.css
+Sun 18 Nov 14:35:01|[ADMIN_SUCCESS]127.0.0.1:3628 /accesslist?access_type=1
+Sun 18 Nov 14:35:01|[ADMIN_SUCCESS]127.0.0.1:3628 /kangle.css
+Sun 18 Nov 14:35:04|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 14:35:49|[ADMIN_SUCCESS]127.0.0.1:3628 /accesslist?access_type=0
+Sun 18 Nov 14:35:49|[ADMIN_SUCCESS]127.0.0.1:3628 /kangle.css
+Sun 18 Nov 14:35:50|[ADMIN_SUCCESS]127.0.0.1:3628 /vhslist
+Sun 18 Nov 14:35:50|[ADMIN_SUCCESS]127.0.0.1:3628 /kangle.css
+Sun 18 Nov 14:37:39|[ADMIN_SUCCESS]127.0.0.1:3717 /accesslist?access_type=0
+Sun 18 Nov 14:37:39|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:41|[ADMIN_SUCCESS]127.0.0.1:3717 /accesslist?access_type=1
+Sun 18 Nov 14:37:41|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:42|[ADMIN_SUCCESS]127.0.0.1:3717 /accesslist?access_type=0
+Sun 18 Nov 14:37:42|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:42|[ADMIN_SUCCESS]127.0.0.1:3717 /accesslist?access_type=1
+Sun 18 Nov 14:37:42|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:43|[ADMIN_SUCCESS]127.0.0.1:3717 /accesslist?access_type=0
+Sun 18 Nov 14:37:43|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:44|[ADMIN_SUCCESS]127.0.0.1:3717 /accesslist?access_type=1
+Sun 18 Nov 14:37:44|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:46|[ADMIN_SUCCESS]127.0.0.1:3717 /acserver
+Sun 18 Nov 14:37:46|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:48|[ADMIN_SUCCESS]127.0.0.1:3717 /extends?item=4
+Sun 18 Nov 14:37:48|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:50|[ADMIN_SUCCESS]127.0.0.1:3717 /extends?item=3
+Sun 18 Nov 14:37:50|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:52|[ADMIN_SUCCESS]127.0.0.1:3717 /extends?item=2
+Sun 18 Nov 14:37:52|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:53|[ADMIN_SUCCESS]127.0.0.1:3717 /extends?item=1
+Sun 18 Nov 14:37:53|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:54|[ADMIN_SUCCESS]127.0.0.1:3717 /extends?item=0
+Sun 18 Nov 14:37:54|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:55|[ADMIN_SUCCESS]127.0.0.1:3717 /writeback
+Sun 18 Nov 14:37:55|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:37:56|[ADMIN_SUCCESS]127.0.0.1:3717 /process
+Sun 18 Nov 14:37:56|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:38:01|[ADMIN_SUCCESS]127.0.0.1:3717 /connect_per_ip
+Sun 18 Nov 14:38:01|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:38:02|[ADMIN_SUCCESS]127.0.0.1:3717 /connection
+Sun 18 Nov 14:38:02|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:38:04|[ADMIN_SUCCESS]127.0.0.1:3717 /config
+Sun 18 Nov 14:38:04|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:38:11|[ADMIN_SUCCESS]127.0.0.1:3717 /config?item=3
+Sun 18 Nov 14:38:11|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:38:12|[ADMIN_SUCCESS]127.0.0.1:3717 /config?item=4
+Sun 18 Nov 14:38:12|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:38:12|[ADMIN_SUCCESS]127.0.0.1:3717 /config?item=5
+Sun 18 Nov 14:38:12|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:38:14|[ADMIN_SUCCESS]127.0.0.1:3717 /config?item=6
+Sun 18 Nov 14:38:14|[ADMIN_SUCCESS]127.0.0.1:3717 /kangle.css
+Sun 18 Nov 14:42:23|[ADMIN_SUCCESS]127.0.0.1:3819 /vhslist
+Sun 18 Nov 14:42:23|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:25|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?id=4&t=0
+Sun 18 Nov 14:42:25|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:39|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?id=1
+Sun 18 Nov 14:42:39|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:40|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?id=2
+Sun 18 Nov 14:42:40|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:41|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?id=3
+Sun 18 Nov 14:42:41|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:42|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?id=8
+Sun 18 Nov 14:42:42|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:43|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?t=1&id=0
+Sun 18 Nov 14:42:43|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:44|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?id=0
+Sun 18 Nov 14:42:44|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:47|[ADMIN_SUCCESS]127.0.0.1:3819 /vhlist?id=4&t=0
+Sun 18 Nov 14:42:47|[ADMIN_SUCCESS]127.0.0.1:3819 /kangle.css
+Sun 18 Nov 14:42:52|[ADMIN_SUCCESS]127.0.0.1:3819 /vhbase?action=vh_add&t=0
+Sun 18 Nov 14:42:52|[ADMIN_SUCCESS]127.0.0.1:3820 /vhlist?id=&t=0
+Sun 18 Nov 14:42:52|[ADMIN_SUCCESS]127.0.0.1:3820 /kangle.css
+Sun 18 Nov 14:42:57|[ADMIN_SUCCESS]127.0.0.1:3820 /reload_vh
+Sun 18 Nov 14:42:58|[ADMIN_SUCCESS]127.0.0.1:3820 /kangle.css
+Sun 18 Nov 14:43:02|[ADMIN_SUCCESS]127.0.0.1:3820 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:43:02|[ADMIN_SUCCESS]127.0.0.1:3820 /kangle.css
+Sun 18 Nov 14:43:15|[ADMIN_SUCCESS]127.0.0.1:3820 /vhbase?action=vh_edit&t=0
+Sun 18 Nov 14:43:15|[ADMIN_SUCCESS]127.0.0.1:3822 /vhlist?id=&t=0
+Sun 18 Nov 14:43:15|[ADMIN_SUCCESS]127.0.0.1:3822 /kangle.css
+Sun 18 Nov 14:43:19|[ADMIN_SUCCESS]127.0.0.1:3822 /reload_vh
+Sun 18 Nov 14:43:19|[ADMIN_SUCCESS]127.0.0.1:3822 /kangle.css
+Sun 18 Nov 14:43:21|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 14:43:39|[ADMIN_SUCCESS]127.0.0.1:3822 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:43:39|[ADMIN_SUCCESS]127.0.0.1:3822 /kangle.css
+Sun 18 Nov 14:43:51|[ADMIN_SUCCESS]127.0.0.1:3822 /vhbase?action=vh_edit&t=0
+Sun 18 Nov 14:43:51|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?id=&t=0
+Sun 18 Nov 14:43:51|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:02|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:44:02|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:05|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?name=ssc&id=3
+Sun 18 Nov 14:44:05|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:07|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?name=ssc&&id=0
+Sun 18 Nov 14:44:07|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:08|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist
+Sun 18 Nov 14:44:08|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:09|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?id=0&name=default&t=0
+Sun 18 Nov 14:44:09|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:10|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist
+Sun 18 Nov 14:44:10|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:11|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:44:11|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:15|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist
+Sun 18 Nov 14:44:15|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:16|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:44:16|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:18|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist
+Sun 18 Nov 14:44:18|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:20|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?id=0&name=webadmin&t=0
+Sun 18 Nov 14:44:20|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:37|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist
+Sun 18 Nov 14:44:37|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:39|[ADMIN_SUCCESS]127.0.0.1:3842 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:44:39|[ADMIN_SUCCESS]127.0.0.1:3842 /kangle.css
+Sun 18 Nov 14:44:43|[ADMIN_SUCCESS]127.0.0.1:3842 /vhbase?action=vh_edit&t=0
+Sun 18 Nov 14:44:43|[ADMIN_SUCCESS]127.0.0.1:3845 /vhlist?id=&t=0
+Sun 18 Nov 14:44:43|[ADMIN_SUCCESS]127.0.0.1:3845 /kangle.css
+Sun 18 Nov 14:47:21|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 14:49:26|[ADMIN_SUCCESS]127.0.0.1:3907 /
+Sun 18 Nov 14:49:27|[ADMIN_SUCCESS]127.0.0.1:3908 /main
+Sun 18 Nov 14:49:27|[ADMIN_SUCCESS]127.0.0.1:3907 /left_menu
+Sun 18 Nov 14:49:27|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:27|[ADMIN_SUCCESS]127.0.0.1:3907 /kangle.css
+Sun 18 Nov 14:49:27|[ADMIN_SUCCESS]127.0.0.1:3908 /logo.gif
+Sun 18 Nov 14:49:28|[ADMIN_SUCCESS]127.0.0.1:3908 /
+Sun 18 Nov 14:49:28|[ADMIN_SUCCESS]127.0.0.1:3907 /main
+Sun 18 Nov 14:49:28|[ADMIN_SUCCESS]127.0.0.1:3908 /left_menu
+Sun 18 Nov 14:49:28|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:28|[ADMIN_SUCCESS]127.0.0.1:3907 /kangle.css
+Sun 18 Nov 14:49:28|[ADMIN_SUCCESS]127.0.0.1:3908 /logo.gif
+Sun 18 Nov 14:49:30|[ADMIN_SUCCESS]127.0.0.1:3908 /vhslist
+Sun 18 Nov 14:49:30|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:31|[ADMIN_SUCCESS]127.0.0.1:3908 /process
+Sun 18 Nov 14:49:31|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:33|[ADMIN_SUCCESS]127.0.0.1:3908 /connection
+Sun 18 Nov 14:49:33|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:35|[ADMIN_SUCCESS]127.0.0.1:3908 /connect_per_ip
+Sun 18 Nov 14:49:35|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:35|[ADMIN_SUCCESS]127.0.0.1:3908 /config
+Sun 18 Nov 14:49:35|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:38|[ADMIN_SUCCESS]127.0.0.1:3908 /acserver
+Sun 18 Nov 14:49:38|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:40|[ADMIN_SUCCESS]127.0.0.1:3908 /extends?item=3
+Sun 18 Nov 14:49:40|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:41|[ADMIN_SUCCESS]127.0.0.1:3908 /extends?item=4
+Sun 18 Nov 14:49:41|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:49:43|[ADMIN_SUCCESS]127.0.0.1:3908 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 14:49:43|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:50:04|[ADMIN_SUCCESS]127.0.0.1:3908 /acserver
+Sun 18 Nov 14:50:05|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:50:07|[ADMIN_SUCCESS]127.0.0.1:3908 /extends?item=4
+Sun 18 Nov 14:50:07|[ADMIN_SUCCESS]127.0.0.1:3908 /kangle.css
+Sun 18 Nov 14:51:01|[ADMIN_SUCCESS]127.0.0.1:3908 /cmdform?action=add
+Sun 18 Nov 14:51:01|[ADMIN_SUCCESS]127.0.0.1:3911 /extends?item=4
+Sun 18 Nov 14:51:01|[ADMIN_SUCCESS]127.0.0.1:3911 /kangle.css
+Sun 18 Nov 14:51:04|[ADMIN_SUCCESS]127.0.0.1:3911 /extends?item=4&action=edit&name=php5.2.5-nts
+Sun 18 Nov 14:51:04|[ADMIN_SUCCESS]127.0.0.1:3911 /kangle.css
+Sun 18 Nov 14:51:13|[ADMIN_SUCCESS]127.0.0.1:3911 /cmdform?action=edit
+Sun 18 Nov 14:51:13|[ADMIN_SUCCESS]127.0.0.1:3912 /extends?item=4
+Sun 18 Nov 14:51:13|[ADMIN_SUCCESS]127.0.0.1:3912 /kangle.css
+Sun 18 Nov 14:51:16|[ADMIN_SUCCESS]127.0.0.1:3912 /extends?item=4&action=edit&name=php5.2.5-nts
+Sun 18 Nov 14:51:16|[ADMIN_SUCCESS]127.0.0.1:3912 /kangle.css
+Sun 18 Nov 14:51:20|[ADMIN_SUCCESS]127.0.0.1:3912 /extends?item=4&action=edit&name=php5.2.5-nts
+Sun 18 Nov 14:51:20|[ADMIN_SUCCESS]127.0.0.1:3912 /kangle.css
+Sun 18 Nov 14:51:22|[ADMIN_SUCCESS]127.0.0.1:3912 /
+Sun 18 Nov 14:51:23|[ADMIN_SUCCESS]127.0.0.1:3912 /left_menu
+Sun 18 Nov 14:51:23|[ADMIN_SUCCESS]127.0.0.1:3912 /main
+Sun 18 Nov 14:51:23|[ADMIN_SUCCESS]127.0.0.1:3912 /kangle.css
+Sun 18 Nov 14:51:23|[ADMIN_SUCCESS]127.0.0.1:3914 /logo.gif
+Sun 18 Nov 14:51:23|[ADMIN_SUCCESS]127.0.0.1:3914 /kangle.css
+Sun 18 Nov 14:51:25|[ADMIN_SUCCESS]127.0.0.1:3914 /acserver
+Sun 18 Nov 14:51:25|[ADMIN_SUCCESS]127.0.0.1:3914 /kangle.css
+Sun 18 Nov 14:51:27|[ADMIN_SUCCESS]127.0.0.1:3914 /extends?item=3
+Sun 18 Nov 14:51:27|[ADMIN_SUCCESS]127.0.0.1:3914 /kangle.css
+Sun 18 Nov 14:51:27|[ADMIN_SUCCESS]127.0.0.1:3914 /extends?item=4
+Sun 18 Nov 14:51:27|[ADMIN_SUCCESS]127.0.0.1:3914 /kangle.css
+Sun 18 Nov 14:51:35|[ADMIN_SUCCESS]127.0.0.1:3914 /vhslist
+Sun 18 Nov 14:51:35|[ADMIN_SUCCESS]127.0.0.1:3914 /kangle.css
+Sun 18 Nov 14:51:37|[ADMIN_SUCCESS]127.0.0.1:3914 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:51:37|[ADMIN_SUCCESS]127.0.0.1:3914 /kangle.css
+Sun 18 Nov 14:51:40|[ADMIN_SUCCESS]127.0.0.1:3914 /vhlist?name=ssc&id=2
+Sun 18 Nov 14:51:40|[ADMIN_SUCCESS]127.0.0.1:3914 /kangle.css
+Sun 18 Nov 14:53:07|[ADMIN_SUCCESS]127.0.0.1:3916 /reboot
+Sun 18 Nov 14:53:08|[ADMIN_SUCCESS]127.0.0.1:3916 /reboot_submit?s=1353221587&r=41
+Sun 18 Nov 14:53:08|cann't accept connect,errno=No error
+Sun 18 Nov 14:53:08|cann't accept connect,errno=No error
+Sun 18 Nov 14:53:08|cann't accept connect,errno=No error
+Sun 18 Nov 14:53:08|listen *:80[tcp4] for http success
+Sun 18 Nov 14:53:08|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 14:53:08|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 14:53:08|Start success [pid=2408].
+Sun 18 Nov 14:53:11|[ADMIN_SUCCESS]127.0.0.1:3917 /
+Sun 18 Nov 14:53:11|[ADMIN_SUCCESS]127.0.0.1:3917 /left_menu
+Sun 18 Nov 14:53:11|[ADMIN_SUCCESS]127.0.0.1:3918 /main
+Sun 18 Nov 14:53:11|[ADMIN_SUCCESS]127.0.0.1:3918 /kangle.css
+Sun 18 Nov 14:53:11|[ADMIN_SUCCESS]127.0.0.1:3917 /logo.gif
+Sun 18 Nov 14:53:11|[ADMIN_SUCCESS]127.0.0.1:3917 /kangle.css
+Sun 18 Nov 14:53:12|[ADMIN_SUCCESS]127.0.0.1:3917 /acserver
+Sun 18 Nov 14:53:12|[ADMIN_SUCCESS]127.0.0.1:3917 /kangle.css
+Sun 18 Nov 14:53:14|[ADMIN_SUCCESS]127.0.0.1:3917 /extends?item=4
+Sun 18 Nov 14:53:14|[ADMIN_SUCCESS]127.0.0.1:3917 /kangle.css
+Sun 18 Nov 14:53:15|[ADMIN_SUCCESS]127.0.0.1:3917 /vhslist
+Sun 18 Nov 14:53:15|[ADMIN_SUCCESS]127.0.0.1:3917 /kangle.css
+Sun 18 Nov 14:53:21|[ADMIN_SUCCESS]127.0.0.1:3917 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:53:21|[ADMIN_SUCCESS]127.0.0.1:3917 /kangle.css
+Sun 18 Nov 14:53:22|[ADMIN_SUCCESS]127.0.0.1:3917 /vhlist?name=ssc&id=8
+Sun 18 Nov 14:53:22|[ADMIN_SUCCESS]127.0.0.1:3917 /kangle.css
+Sun 18 Nov 14:53:26|[ADMIN_SUCCESS]127.0.0.1:3917 /vhlist?name=ssc&id=2
+Sun 18 Nov 14:53:26|[ADMIN_SUCCESS]127.0.0.1:3917 /kangle.css
+Sun 18 Nov 14:53:39|[ADMIN_SUCCESS]127.0.0.1:3917 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 14:53:39|[ADMIN_SUCCESS]127.0.0.1:3918 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 14:53:39|[ADMIN_SUCCESS]127.0.0.1:3918 /kangle.css
+Sun 18 Nov 14:53:44|[ADMIN_SUCCESS]127.0.0.1:3918 /reload_vh
+Sun 18 Nov 14:53:44|[ADMIN_SUCCESS]127.0.0.1:3918 /kangle.css
+Sun 18 Nov 14:53:45|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 14:53:55|[ADMIN_SUCCESS]127.0.0.1:3918 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:53:55|[ADMIN_SUCCESS]127.0.0.1:3918 /kangle.css
+Sun 18 Nov 14:53:57|[ADMIN_SUCCESS]127.0.0.1:3918 /vhlist?name=ssc&id=2
+Sun 18 Nov 14:53:57|[ADMIN_SUCCESS]127.0.0.1:3918 /kangle.css
+Sun 18 Nov 14:54:17|[ADMIN_SUCCESS]127.0.0.1:3918 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 14:54:17|[ADMIN_SUCCESS]127.0.0.1:3925 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 14:54:17|[ADMIN_SUCCESS]127.0.0.1:3925 /kangle.css
+Sun 18 Nov 14:54:21|[ADMIN_SUCCESS]127.0.0.1:3925 /reload_vh
+Sun 18 Nov 14:54:21|[ADMIN_SUCCESS]127.0.0.1:3925 /kangle.css
+Sun 18 Nov 14:54:22|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 14:55:15|[ADMIN_SUCCESS]127.0.0.1:3925 /reboot
+Sun 18 Nov 14:55:15|[ADMIN_SUCCESS]127.0.0.1:3925 /reboot_submit?s=1353221715&r=41
+Sun 18 Nov 14:55:15|cann't accept connect,errno=No error
+Sun 18 Nov 14:55:15|cann't accept connect,errno=No error
+Sun 18 Nov 14:55:15|cann't accept connect,errno=No error
+Sun 18 Nov 14:55:15|listen *:80[tcp4] for http success
+Sun 18 Nov 14:55:15|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 14:55:15|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 14:55:15|Start success [pid=2812].
+Sun 18 Nov 14:55:17|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 14:55:18|[ADMIN_SUCCESS]127.0.0.1:3935 /
+Sun 18 Nov 14:55:18|[ADMIN_SUCCESS]127.0.0.1:3936 /main
+Sun 18 Nov 14:55:18|[ADMIN_SUCCESS]127.0.0.1:3935 /left_menu
+Sun 18 Nov 14:55:18|[ADMIN_SUCCESS]127.0.0.1:3936 /kangle.css
+Sun 18 Nov 14:55:18|[ADMIN_SUCCESS]127.0.0.1:3935 /kangle.css
+Sun 18 Nov 14:55:18|[ADMIN_SUCCESS]127.0.0.1:3938 /logo.gif
+Sun 18 Nov 14:55:22|[ADMIN_SUCCESS]127.0.0.1:3938 /vhslist
+Sun 18 Nov 14:55:22|[ADMIN_SUCCESS]127.0.0.1:3938 /kangle.css
+Sun 18 Nov 14:55:23|[ADMIN_SUCCESS]127.0.0.1:3938 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:55:23|[ADMIN_SUCCESS]127.0.0.1:3938 /kangle.css
+Sun 18 Nov 14:55:24|[ADMIN_SUCCESS]127.0.0.1:3938 /vhlist?name=ssc&id=3
+Sun 18 Nov 14:55:25|[ADMIN_SUCCESS]127.0.0.1:3938 /kangle.css
+Sun 18 Nov 14:55:25|[ADMIN_SUCCESS]127.0.0.1:3938 /vhlist?name=ssc&id=2
+Sun 18 Nov 14:55:25|[ADMIN_SUCCESS]127.0.0.1:3938 /kangle.css
+Sun 18 Nov 14:55:32|[ADMIN_SUCCESS]127.0.0.1:3938 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 14:55:32|[ADMIN_SUCCESS]127.0.0.1:3936 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 14:55:32|[ADMIN_SUCCESS]127.0.0.1:3936 /kangle.css
+Sun 18 Nov 14:55:35|[ADMIN_SUCCESS]127.0.0.1:3936 /reload_vh
+Sun 18 Nov 14:55:35|[ADMIN_SUCCESS]127.0.0.1:3936 /kangle.css
+Sun 18 Nov 14:55:36|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 14:57:14|[ADMIN_SUCCESS]127.0.0.1:3952 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 14:57:14|[ADMIN_SUCCESS]127.0.0.1:3952 /kangle.css
+Sun 18 Nov 14:58:58|[ADMIN_SUCCESS]127.0.0.1:3995 /vhlist?name=ssc&&id=0
+Sun 18 Nov 14:58:58|[ADMIN_SUCCESS]127.0.0.1:3995 /kangle.css
+Sun 18 Nov 14:59:00|[ADMIN_SUCCESS]127.0.0.1:3995 /vhlist?name=ssc&id=3
+Sun 18 Nov 14:59:00|[ADMIN_SUCCESS]127.0.0.1:3995 /kangle.css
+Sun 18 Nov 14:59:00|[ADMIN_SUCCESS]127.0.0.1:3995 /vhlist?name=ssc&id=2
+Sun 18 Nov 14:59:00|[ADMIN_SUCCESS]127.0.0.1:3995 /kangle.css
+Sun 18 Nov 15:06:26|[ADMIN_SUCCESS]127.0.0.1:4116 /
+Sun 18 Nov 15:06:26|[ADMIN_SUCCESS]127.0.0.1:4116 /left_menu
+Sun 18 Nov 15:06:26|[ADMIN_SUCCESS]127.0.0.1:4116 /kangle.css
+Sun 18 Nov 15:06:26|[ADMIN_SUCCESS]127.0.0.1:4118 /logo.gif
+Sun 18 Nov 15:06:26|[ADMIN_SUCCESS]127.0.0.1:4117 /main
+Sun 18 Nov 15:06:26|[ADMIN_SUCCESS]127.0.0.1:4118 /kangle.css
+Sun 18 Nov 15:06:29|[ADMIN_SUCCESS]127.0.0.1:4118 /reboot
+Sun 18 Nov 15:06:29|[ADMIN_SUCCESS]127.0.0.1:4118 /reboot_submit?s=1353222389&r=41
+Sun 18 Nov 15:06:29|cann't accept connect,errno=No error
+Sun 18 Nov 15:06:29|cann't accept connect,errno=No error
+Sun 18 Nov 15:06:29|cann't accept connect,errno=No error
+Sun 18 Nov 15:06:29|listen *:80[tcp4] for http success
+Sun 18 Nov 15:06:29|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 15:06:29|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 15:06:29|Start success [pid=2912].
+Sun 18 Nov 15:06:32|[ADMIN_SUCCESS]127.0.0.1:4121 /
+Sun 18 Nov 15:06:32|[ADMIN_SUCCESS]127.0.0.1:4121 /left_menu
+Sun 18 Nov 15:06:32|[ADMIN_SUCCESS]127.0.0.1:4122 /main
+Sun 18 Nov 15:06:32|[ADMIN_SUCCESS]127.0.0.1:4122 /kangle.css
+Sun 18 Nov 15:06:32|[ADMIN_SUCCESS]127.0.0.1:4122 /logo.gif
+Sun 18 Nov 15:06:32|[ADMIN_SUCCESS]127.0.0.1:4121 /kangle.css
+Sun 18 Nov 15:06:33|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 15:08:17|[ADMIN_SUCCESS]127.0.0.1:4131 /reboot
+Sun 18 Nov 15:08:17|[ADMIN_SUCCESS]127.0.0.1:4131 /reboot_submit?s=1353222497&r=41
+Sun 18 Nov 15:08:17|cann't accept connect,errno=No error
+Sun 18 Nov 15:08:17|cann't accept connect,errno=No error
+Sun 18 Nov 15:08:17|cann't accept connect,errno=No error
+Sun 18 Nov 15:08:17|listen *:80[tcp4] for http success
+Sun 18 Nov 15:08:17|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 15:08:17|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 15:08:17|Start success [pid=376].
+Sun 18 Nov 15:08:20|[ADMIN_SUCCESS]127.0.0.1:4132 /
+Sun 18 Nov 15:08:20|[ADMIN_SUCCESS]127.0.0.1:4132 /left_menu
+Sun 18 Nov 15:08:20|[ADMIN_SUCCESS]127.0.0.1:4132 /main
+Sun 18 Nov 15:08:20|[ADMIN_SUCCESS]127.0.0.1:4132 /kangle.css
+Sun 18 Nov 15:08:20|[ADMIN_SUCCESS]127.0.0.1:4134 /logo.gif
+Sun 18 Nov 15:08:20|[ADMIN_SUCCESS]127.0.0.1:4134 /kangle.css
+Sun 18 Nov 15:08:22|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 15:08:50|[ADMIN_SUCCESS]127.0.0.1:4134 /reboot
+Sun 18 Nov 15:08:50|[ADMIN_SUCCESS]127.0.0.1:4134 /reboot_submit?s=1353222530&r=41
+Sun 18 Nov 15:08:50|cann't accept connect,errno=No error
+Sun 18 Nov 15:08:50|cann't accept connect,errno=No error
+Sun 18 Nov 15:08:50|cann't accept connect,errno=No error
+Sun 18 Nov 15:08:50|listen *:80[tcp4] for http success
+Sun 18 Nov 15:08:50|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 15:08:50|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 15:08:50|Start success [pid=1788].
+Sun 18 Nov 15:08:53|[ADMIN_SUCCESS]127.0.0.1:4142 /
+Sun 18 Nov 15:08:53|[ADMIN_SUCCESS]127.0.0.1:4142 /left_menu
+Sun 18 Nov 15:08:53|[ADMIN_SUCCESS]127.0.0.1:4143 /main
+Sun 18 Nov 15:08:54|[ADMIN_SUCCESS]127.0.0.1:4143 /kangle.css
+Sun 18 Nov 15:08:54|[ADMIN_SUCCESS]127.0.0.1:4142 /logo.gif
+Sun 18 Nov 15:08:54|[ADMIN_SUCCESS]127.0.0.1:4142 /kangle.css
+Sun 18 Nov 15:08:55|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 15:08:55|rq = 00F1B148 connect to 127.0.0.1:4147 error code=504,msg=[cann't recv head from remote server],try count=1,last errno=0 No error,socket=1168
+Sun 18 Nov 15:08:55|process pid=[2792] is crashed
+Sun 18 Nov 15:08:55|restart the virtual process error_count=0
+Sun 18 Nov 15:08:58|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 15:09:10|[ADMIN_SUCCESS]127.0.0.1:4142 /
+Sun 18 Nov 15:09:10|[ADMIN_SUCCESS]127.0.0.1:4142 /left_menu
+Sun 18 Nov 15:09:10|[ADMIN_SUCCESS]127.0.0.1:4143 /main
+Sun 18 Nov 15:09:10|[ADMIN_SUCCESS]127.0.0.1:4142 /kangle.css
+Sun 18 Nov 15:09:10|[ADMIN_SUCCESS]127.0.0.1:4143 /logo.gif
+Sun 18 Nov 15:09:10|[ADMIN_SUCCESS]127.0.0.1:4142 /kangle.css
+Sun 18 Nov 15:21:08|[ADMIN_SUCCESS]127.0.0.1:4305 /
+Sun 18 Nov 15:21:08|[ADMIN_SUCCESS]127.0.0.1:4306 /main
+Sun 18 Nov 15:21:08|[ADMIN_SUCCESS]127.0.0.1:4305 /left_menu
+Sun 18 Nov 15:21:08|[ADMIN_SUCCESS]127.0.0.1:4306 /kangle.css
+Sun 18 Nov 15:21:08|[ADMIN_SUCCESS]127.0.0.1:4305 /logo.gif
+Sun 18 Nov 15:21:08|[ADMIN_SUCCESS]127.0.0.1:4306 /kangle.css
+Sun 18 Nov 15:21:09|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 15:21:22|[ADMIN_SUCCESS]127.0.0.1:4305 /vhslist
+Sun 18 Nov 15:21:22|[ADMIN_SUCCESS]127.0.0.1:4305 /kangle.css
+Sun 18 Nov 15:21:24|[ADMIN_SUCCESS]127.0.0.1:4305 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 15:21:24|[ADMIN_SUCCESS]127.0.0.1:4305 /kangle.css
+Sun 18 Nov 15:21:26|[ADMIN_SUCCESS]127.0.0.1:4305 /vhlist?name=ssc&id=8
+Sun 18 Nov 15:21:26|[ADMIN_SUCCESS]127.0.0.1:4305 /kangle.css
+Sun 18 Nov 15:21:27|[ADMIN_SUCCESS]127.0.0.1:4305 /vhlist?name=ssc&id=3
+Sun 18 Nov 15:21:27|[ADMIN_SUCCESS]127.0.0.1:4305 /kangle.css
+Sun 18 Nov 15:21:27|[ADMIN_SUCCESS]127.0.0.1:4305 /vhlist?name=ssc&id=2
+Sun 18 Nov 15:21:27|[ADMIN_SUCCESS]127.0.0.1:4305 /kangle.css
+Sun 18 Nov 15:21:34|[ADMIN_SUCCESS]127.0.0.1:4305 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 15:21:34|[ADMIN_SUCCESS]127.0.0.1:4306 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:21:34|[ADMIN_SUCCESS]127.0.0.1:4306 /kangle.css
+Sun 18 Nov 15:21:39|[ADMIN_SUCCESS]127.0.0.1:4306 /vhbase?action=redirectdelete&type=file_ext&value=php&name=ssc&id=2
+Sun 18 Nov 15:21:39|[ADMIN_SUCCESS]127.0.0.1:4315 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:21:39|[ADMIN_SUCCESS]127.0.0.1:4315 /kangle.css
+Sun 18 Nov 15:21:41|[ADMIN_SUCCESS]127.0.0.1:4315 /vhbase?action=redirectdelete&type=file_ext&value=&name=ssc&id=2
+Sun 18 Nov 15:21:41|[ADMIN_SUCCESS]127.0.0.1:4316 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:21:41|[ADMIN_SUCCESS]127.0.0.1:4316 /kangle.css
+Sun 18 Nov 15:21:47|[ADMIN_SUCCESS]127.0.0.1:4316 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 15:21:47|[ADMIN_SUCCESS]127.0.0.1:4317 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:21:47|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:21:49|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 15:22:02|[ADMIN_SUCCESS]127.0.0.1:4317 /reload_vh
+Sun 18 Nov 15:22:03|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:22:10|[ADMIN_SUCCESS]127.0.0.1:4317 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 15:22:10|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:22:12|[ADMIN_SUCCESS]127.0.0.1:4317 /vhlist?name=ssc&id=2
+Sun 18 Nov 15:22:12|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:23:08|[ADMIN_SUCCESS]127.0.0.1:4317 /vhlist?name=ssc&id=3
+Sun 18 Nov 15:23:08|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:24:08|[ADMIN_SUCCESS]127.0.0.1:4317 /writeback
+Sun 18 Nov 15:24:08|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:24:09|[ADMIN_SUCCESS]127.0.0.1:4317 /process
+Sun 18 Nov 15:24:09|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:24:09|[ADMIN_SUCCESS]127.0.0.1:4317 /vhslist
+Sun 18 Nov 15:24:09|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:24:12|[ADMIN_SUCCESS]127.0.0.1:4317 /acserver
+Sun 18 Nov 15:24:12|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:24:14|[ADMIN_SUCCESS]127.0.0.1:4317 /extends?item=3
+Sun 18 Nov 15:24:14|[ADMIN_SUCCESS]127.0.0.1:4317 /kangle.css
+Sun 18 Nov 15:28:13|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 15:28:32|[ADMIN_SUCCESS]127.0.0.1:4392 /acserver
+Sun 18 Nov 15:28:32|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:28:33|[ADMIN_SUCCESS]127.0.0.1:4392 /extends?item=4
+Sun 18 Nov 15:28:33|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:28:38|[ADMIN_SUCCESS]127.0.0.1:4392 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 15:28:38|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:28:45|[ADMIN_SUCCESS]127.0.0.1:4392 /extends?item=3
+Sun 18 Nov 15:28:45|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:29:03|[ADMIN_SUCCESS]127.0.0.1:4392 /extends?item=4
+Sun 18 Nov 15:29:03|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:29:17|[ADMIN_SUCCESS]127.0.0.1:4392 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 15:29:17|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:29:19|[ADMIN_SUCCESS]127.0.0.1:4392 /extends?item=4&action=edit&name=php5.2.5-nts
+Sun 18 Nov 15:29:19|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:29:19|[ADMIN_SUCCESS]127.0.0.1:4392 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 15:29:19|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:29:25|[ADMIN_SUCCESS]127.0.0.1:4392 /connect_per_ip
+Sun 18 Nov 15:29:25|[ADMIN_SUCCESS]127.0.0.1:4392 /kangle.css
+Sun 18 Nov 15:29:33|[ADMIN_SUCCESS]127.0.0.1:4392 /reboot
+Sun 18 Nov 15:29:33|[ADMIN_SUCCESS]127.0.0.1:4392 /reboot_submit?s=1353223773&r=41
+Sun 18 Nov 15:29:33|cann't accept connect,errno=No error
+Sun 18 Nov 15:29:33|cann't accept connect,errno=No error
+Sun 18 Nov 15:29:33|cann't accept connect,errno=No error
+Sun 18 Nov 15:29:33|listen *:80[tcp4] for http success
+Sun 18 Nov 15:29:33|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 15:29:33|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 15:29:33|Start success [pid=3524].
+Sun 18 Nov 15:29:36|[ADMIN_SUCCESS]127.0.0.1:4395 /
+Sun 18 Nov 15:29:36|[ADMIN_SUCCESS]127.0.0.1:4395 /left_menu
+Sun 18 Nov 15:29:36|[ADMIN_SUCCESS]127.0.0.1:4396 /main
+Sun 18 Nov 15:29:36|[ADMIN_SUCCESS]127.0.0.1:4396 /kangle.css
+Sun 18 Nov 15:29:36|[ADMIN_SUCCESS]127.0.0.1:4395 /logo.gif
+Sun 18 Nov 15:29:36|[ADMIN_SUCCESS]127.0.0.1:4395 /kangle.css
+Sun 18 Nov 15:29:38|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 15:29:45|[ADMIN_SUCCESS]127.0.0.1:4395 /process
+Sun 18 Nov 15:29:45|[ADMIN_SUCCESS]127.0.0.1:4395 /kangle.css
+Sun 18 Nov 15:29:47|[ADMIN_SUCCESS]127.0.0.1:4395 /config
+Sun 18 Nov 15:29:47|[ADMIN_SUCCESS]127.0.0.1:4395 /kangle.css
+Sun 18 Nov 15:29:50|[ADMIN_SUCCESS]127.0.0.1:4395 /process
+Sun 18 Nov 15:29:50|[ADMIN_SUCCESS]127.0.0.1:4395 /kangle.css
+Sun 18 Nov 15:29:51|[ADMIN_SUCCESS]127.0.0.1:4395 /acserver
+Sun 18 Nov 15:29:51|[ADMIN_SUCCESS]127.0.0.1:4395 /kangle.css
+Sun 18 Nov 15:29:53|[ADMIN_SUCCESS]127.0.0.1:4395 /process
+Sun 18 Nov 15:29:54|[ADMIN_SUCCESS]127.0.0.1:4395 /kangle.css
+Sun 18 Nov 15:29:57|[ADMIN_SUCCESS]127.0.0.1:4395 /process_kill?name=cmd:php-nts&user=:1&pid=1212
+Sun 18 Nov 15:29:57|[ADMIN_SUCCESS]127.0.0.1:4396 /process
+Sun 18 Nov 15:29:57|[ADMIN_SUCCESS]127.0.0.1:4396 /kangle.css
+Sun 18 Nov 15:29:59|[ADMIN_SUCCESS]127.0.0.1:4396 /process
+Sun 18 Nov 15:29:59|[ADMIN_SUCCESS]127.0.0.1:4396 /kangle.css
+Sun 18 Nov 15:30:00|[ADMIN_SUCCESS]127.0.0.1:4396 /acserver
+Sun 18 Nov 15:30:00|[ADMIN_SUCCESS]127.0.0.1:4396 /kangle.css
+Sun 18 Nov 15:30:02|[ADMIN_SUCCESS]127.0.0.1:4396 /extends?item=4
+Sun 18 Nov 15:30:02|[ADMIN_SUCCESS]127.0.0.1:4396 /kangle.css
+Sun 18 Nov 15:30:04|[ADMIN_SUCCESS]127.0.0.1:4396 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 15:30:04|[ADMIN_SUCCESS]127.0.0.1:4396 /kangle.css
+Sun 18 Nov 15:30:30|[ADMIN_SUCCESS]127.0.0.1:4396 /cmdform?action=edit
+Sun 18 Nov 15:30:30|[ADMIN_SUCCESS]127.0.0.1:4405 /extends?item=4
+Sun 18 Nov 15:30:30|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:32|[ADMIN_SUCCESS]127.0.0.1:4405 /vhslist
+Sun 18 Nov 15:30:32|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:33|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 15:30:37|[ADMIN_SUCCESS]127.0.0.1:4405 /process
+Sun 18 Nov 15:30:37|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:42|[ADMIN_SUCCESS]127.0.0.1:4405 /vhslist
+Sun 18 Nov 15:30:42|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:43|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 15:30:43|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:45|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?name=ssc&id=2
+Sun 18 Nov 15:30:45|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:53|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?name=ssc&id=1
+Sun 18 Nov 15:30:53|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:54|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?name=ssc&id=2
+Sun 18 Nov 15:30:54|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:30:55|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?name=ssc&id=1
+Sun 18 Nov 15:30:55|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:31:20|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist
+Sun 18 Nov 15:31:20|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:31:22|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?id=3
+Sun 18 Nov 15:31:22|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:31:22|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?id=2
+Sun 18 Nov 15:31:22|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:31:24|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?id=3
+Sun 18 Nov 15:31:24|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:31:25|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?id=5
+Sun 18 Nov 15:31:25|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:31:26|[ADMIN_SUCCESS]127.0.0.1:4405 /vhlist?id=8
+Sun 18 Nov 15:31:26|[ADMIN_SUCCESS]127.0.0.1:4405 /kangle.css
+Sun 18 Nov 15:34:34|[ADMIN_SUCCESS]127.0.0.1:4465 /
+Sun 18 Nov 15:34:34|[ADMIN_SUCCESS]127.0.0.1:4465 /left_menu
+Sun 18 Nov 15:34:34|[ADMIN_SUCCESS]127.0.0.1:4465 /main
+Sun 18 Nov 15:34:34|[ADMIN_SUCCESS]127.0.0.1:4465 /kangle.css
+Sun 18 Nov 15:34:34|[ADMIN_SUCCESS]127.0.0.1:4466 /logo.gif
+Sun 18 Nov 15:34:34|[ADMIN_SUCCESS]127.0.0.1:4466 /kangle.css
+Sun 18 Nov 15:34:36|[ADMIN_SUCCESS]127.0.0.1:4466 /accesslist?access_type=1
+Sun 18 Nov 15:34:36|[ADMIN_SUCCESS]127.0.0.1:4466 /kangle.css
+Sun 18 Nov 15:34:37|[ADMIN_SUCCESS]127.0.0.1:4466 /accesslist?access_type=0
+Sun 18 Nov 15:34:37|[ADMIN_SUCCESS]127.0.0.1:4466 /kangle.css
+Sun 18 Nov 15:34:38|[ADMIN_SUCCESS]127.0.0.1:4466 /acserver
+Sun 18 Nov 15:34:38|[ADMIN_SUCCESS]127.0.0.1:4466 /kangle.css
+Sun 18 Nov 15:34:39|[ADMIN_SUCCESS]127.0.0.1:4466 /vhslist
+Sun 18 Nov 15:34:39|[ADMIN_SUCCESS]127.0.0.1:4466 /kangle.css
+Sun 18 Nov 15:35:09|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 15:41:27|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 15:45:17|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 15:45:34|[ADMIN_SUCCESS]127.0.0.1:4824 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 15:45:34|[ADMIN_SUCCESS]127.0.0.1:4824 /kangle.css
+Sun 18 Nov 15:45:36|[ADMIN_SUCCESS]127.0.0.1:4824 /vhlist?name=ssc&id=2
+Sun 18 Nov 15:45:36|[ADMIN_SUCCESS]127.0.0.1:4824 /kangle.css
+Sun 18 Nov 15:47:20|[ADMIN_SUCCESS]127.0.0.1:4851 /vhlist?name=ssc&id=2
+Sun 18 Nov 15:47:20|[ADMIN_SUCCESS]127.0.0.1:4851 /kangle.css
+Sun 18 Nov 15:47:21|[ADMIN_SUCCESS]127.0.0.1:4851 /vhbase?action=redirectdelete&type=file_ext&value=php&name=ssc&id=2
+Sun 18 Nov 15:47:21|[ADMIN_SUCCESS]127.0.0.1:4852 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:47:22|[ADMIN_SUCCESS]127.0.0.1:4852 /kangle.css
+Sun 18 Nov 15:47:26|[ADMIN_SUCCESS]127.0.0.1:4852 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 15:47:26|[ADMIN_SUCCESS]127.0.0.1:4856 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:47:26|[ADMIN_SUCCESS]127.0.0.1:4856 /kangle.css
+Sun 18 Nov 15:47:28|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 15:47:46|[ADMIN_SUCCESS]127.0.0.1:4856 /vhbase?action=redirectdelete&type=file_ext&value=php&name=ssc&id=2
+Sun 18 Nov 15:47:46|[ADMIN_SUCCESS]127.0.0.1:4864 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:47:46|[ADMIN_SUCCESS]127.0.0.1:4864 /kangle.css
+Sun 18 Nov 15:47:50|[ADMIN_SUCCESS]127.0.0.1:4864 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 15:47:50|[ADMIN_SUCCESS]127.0.0.1:4866 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 15:47:50|[ADMIN_SUCCESS]127.0.0.1:4866 /kangle.css
+Sun 18 Nov 16:14:46|[ADMIN_SUCCESS]127.0.0.1:1847 /
+Sun 18 Nov 16:14:46|[ADMIN_SUCCESS]127.0.0.1:1848 /main
+Sun 18 Nov 16:14:46|[ADMIN_SUCCESS]127.0.0.1:1847 /left_menu
+Sun 18 Nov 16:14:46|[ADMIN_SUCCESS]127.0.0.1:1848 /kangle.css
+Sun 18 Nov 16:14:46|[ADMIN_SUCCESS]127.0.0.1:1848 /kangle.css
+Sun 18 Nov 16:14:46|[ADMIN_SUCCESS]127.0.0.1:1847 /logo.gif
+Sun 18 Nov 16:14:48|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 16:18:34|[ADMIN_SUCCESS]127.0.0.1:1907 /vhslist
+Sun 18 Nov 16:18:34|[ADMIN_SUCCESS]127.0.0.1:1907 /kangle.css
+Sun 18 Nov 16:18:35|[ADMIN_SUCCESS]127.0.0.1:1907 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 16:18:35|[ADMIN_SUCCESS]127.0.0.1:1907 /kangle.css
+Sun 18 Nov 16:18:37|[ADMIN_SUCCESS]127.0.0.1:1907 /vhlist?name=ssc&id=3
+Sun 18 Nov 16:18:37|[ADMIN_SUCCESS]127.0.0.1:1907 /kangle.css
+Sun 18 Nov 16:18:38|[ADMIN_SUCCESS]127.0.0.1:1907 /vhlist?name=ssc&id=5
+Sun 18 Nov 16:18:38|[ADMIN_SUCCESS]127.0.0.1:1907 /kangle.css
+Sun 18 Nov 16:18:39|[ADMIN_SUCCESS]127.0.0.1:1907 /vhlist?name=ssc&id=2
+Sun 18 Nov 16:18:39|[ADMIN_SUCCESS]127.0.0.1:1907 /kangle.css
+Sun 18 Nov 16:18:47|[ADMIN_SUCCESS]127.0.0.1:1907 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 16:18:47|[ADMIN_SUCCESS]127.0.0.1:1912 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 16:18:47|[ADMIN_SUCCESS]127.0.0.1:1912 /kangle.css
+Sun 18 Nov 16:18:49|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 16:51:30|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.2.5/php-cgi.exe"]
+Sun 18 Nov 16:51:33|[ADMIN_SUCCESS]127.0.0.1:3661 /
+Sun 18 Nov 16:51:33|[ADMIN_SUCCESS]127.0.0.1:3661 /left_menu
+Sun 18 Nov 16:51:33|[ADMIN_SUCCESS]127.0.0.1:3662 /main
+Sun 18 Nov 16:51:33|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:51:33|[ADMIN_SUCCESS]127.0.0.1:3661 /logo.gif
+Sun 18 Nov 16:51:33|[ADMIN_SUCCESS]127.0.0.1:3664 /kangle.css
+Sun 18 Nov 16:51:35|[ADMIN_SUCCESS]127.0.0.1:3661 /writeback
+Sun 18 Nov 16:51:35|[ADMIN_SUCCESS]127.0.0.1:3661 /kangle.css
+Sun 18 Nov 16:51:36|[ADMIN_SUCCESS]127.0.0.1:3661 /vhslist
+Sun 18 Nov 16:51:36|[ADMIN_SUCCESS]127.0.0.1:3661 /kangle.css
+Sun 18 Nov 16:51:38|[ADMIN_SUCCESS]127.0.0.1:3661 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 16:51:38|[ADMIN_SUCCESS]127.0.0.1:3661 /kangle.css
+Sun 18 Nov 16:51:40|[ADMIN_SUCCESS]127.0.0.1:3661 /vhlist?name=ssc&id=2
+Sun 18 Nov 16:51:40|[ADMIN_SUCCESS]127.0.0.1:3661 /kangle.css
+Sun 18 Nov 16:51:48|[ADMIN_SUCCESS]127.0.0.1:3661 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 16:51:48|[ADMIN_SUCCESS]127.0.0.1:3662 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 16:51:48|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:51:50|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 16:51:58|[ADMIN_SUCCESS]127.0.0.1:3662 /vhslist
+Sun 18 Nov 16:51:58|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:52:02|[ADMIN_SUCCESS]127.0.0.1:3662 /acserver
+Sun 18 Nov 16:52:02|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:52:03|[ADMIN_SUCCESS]127.0.0.1:3662 /extends?item=4
+Sun 18 Nov 16:52:03|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:52:06|[ADMIN_SUCCESS]127.0.0.1:3662 /cmdenable?flag=disable&name=php5.2.5-nts
+Sun 18 Nov 16:52:06|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:52:15|[ADMIN_SUCCESS]127.0.0.1:3662 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 16:52:15|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:52:27|[ADMIN_SUCCESS]127.0.0.1:3662 /vhslist
+Sun 18 Nov 16:52:27|[ADMIN_SUCCESS]127.0.0.1:3662 /kangle.css
+Sun 18 Nov 16:52:29|[ADMIN_SUCCESS]127.0.0.1:3662 /reboot
+Sun 18 Nov 16:52:29|[ADMIN_SUCCESS]127.0.0.1:3662 /reboot_submit?s=1353228749&r=41
+Sun 18 Nov 16:52:29|cann't accept connect,errno=No error
+Sun 18 Nov 16:52:29|cann't accept connect,errno=No error
+Sun 18 Nov 16:52:29|cann't accept connect,errno=No error
+Sun 18 Nov 16:52:29|listen *:80[tcp4] for http success
+Sun 18 Nov 16:52:29|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 16:52:29|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 16:52:29|Start success [pid=452].
+Sun 18 Nov 16:52:32|[ADMIN_SUCCESS]127.0.0.1:3681 /
+Sun 18 Nov 16:52:32|[ADMIN_SUCCESS]127.0.0.1:3681 /left_menu
+Sun 18 Nov 16:52:32|[ADMIN_SUCCESS]127.0.0.1:3682 /main
+Sun 18 Nov 16:52:32|[ADMIN_SUCCESS]127.0.0.1:3682 /kangle.css
+Sun 18 Nov 16:52:32|[ADMIN_SUCCESS]127.0.0.1:3681 /logo.gif
+Sun 18 Nov 16:52:32|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:52:33|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 16:53:04|[ADMIN_SUCCESS]127.0.0.1:3681 /vhslist
+Sun 18 Nov 16:53:04|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:05|[ADMIN_SUCCESS]127.0.0.1:3681 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 16:53:05|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:06|[ADMIN_SUCCESS]127.0.0.1:3681 /vhslist
+Sun 18 Nov 16:53:06|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:09|[ADMIN_SUCCESS]127.0.0.1:3681 /config
+Sun 18 Nov 16:53:09|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:12|[ADMIN_SUCCESS]127.0.0.1:3681 /acserver
+Sun 18 Nov 16:53:12|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:13|[ADMIN_SUCCESS]127.0.0.1:3681 /extends?item=4
+Sun 18 Nov 16:53:13|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:18|[ADMIN_SUCCESS]127.0.0.1:3681 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 16:53:18|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:40|[ADMIN_SUCCESS]127.0.0.1:3681 /
+Sun 18 Nov 16:53:40|[ADMIN_SUCCESS]127.0.0.1:3681 /left_menu
+Sun 18 Nov 16:53:40|[ADMIN_SUCCESS]127.0.0.1:3704 /main
+Sun 18 Nov 16:53:40|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:40|[ADMIN_SUCCESS]127.0.0.1:3681 /logo.gif
+Sun 18 Nov 16:53:40|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:41|[ADMIN_SUCCESS]127.0.0.1:3681 /vhslist
+Sun 18 Nov 16:53:41|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:43|[ADMIN_SUCCESS]127.0.0.1:3681 /acserver
+Sun 18 Nov 16:53:43|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:45|[ADMIN_SUCCESS]127.0.0.1:3681 /extends?item=3
+Sun 18 Nov 16:53:45|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:46|[ADMIN_SUCCESS]127.0.0.1:3681 /extends?item=4
+Sun 18 Nov 16:53:46|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:52|[ADMIN_SUCCESS]127.0.0.1:3681 /cmdenable?flag=disable&name=php5.2.5-nts
+Sun 18 Nov 16:53:52|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:54|[ADMIN_SUCCESS]127.0.0.1:3681 /cmdenable?flag=disable&name=php-nts
+Sun 18 Nov 16:53:54|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:53:58|[ADMIN_SUCCESS]127.0.0.1:3681 /cmdenable?flag=enable&name=php-nts
+Sun 18 Nov 16:53:58|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:54:12|[ADMIN_SUCCESS]127.0.0.1:3681 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 16:54:13|[ADMIN_SUCCESS]127.0.0.1:3681 /kangle.css
+Sun 18 Nov 16:54:28|[ADMIN_SUCCESS]127.0.0.1:3681 /cmdform?action=edit
+Sun 18 Nov 16:54:28|[ADMIN_SUCCESS]127.0.0.1:3704 /extends?item=4
+Sun 18 Nov 16:54:28|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:29|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 16:54:39|[ADMIN_SUCCESS]127.0.0.1:3704 /accesslist?access_type=1
+Sun 18 Nov 16:54:39|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:39|[ADMIN_SUCCESS]127.0.0.1:3704 /accesslist?access_type=0
+Sun 18 Nov 16:54:39|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:40|[ADMIN_SUCCESS]127.0.0.1:3704 /acserver
+Sun 18 Nov 16:54:40|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:41|[ADMIN_SUCCESS]127.0.0.1:3704 /vhslist
+Sun 18 Nov 16:54:41|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:43|[ADMIN_SUCCESS]127.0.0.1:3704 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 16:54:43|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:44|[ADMIN_SUCCESS]127.0.0.1:3704 /vhlist?name=ssc&id=5
+Sun 18 Nov 16:54:44|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:44|[ADMIN_SUCCESS]127.0.0.1:3704 /vhlist?name=ssc&id=3
+Sun 18 Nov 16:54:44|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:45|[ADMIN_SUCCESS]127.0.0.1:3704 /vhlist?name=ssc&id=2
+Sun 18 Nov 16:54:45|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:51|[ADMIN_SUCCESS]127.0.0.1:3704 /vhlist?name=ssc&id=1
+Sun 18 Nov 16:54:51|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:52|[ADMIN_SUCCESS]127.0.0.1:3704 /vhlist?name=ssc&&id=0
+Sun 18 Nov 16:54:52|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:55|[ADMIN_SUCCESS]127.0.0.1:3704 /acserver
+Sun 18 Nov 16:54:55|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:56|[ADMIN_SUCCESS]127.0.0.1:3704 /extends?item=2
+Sun 18 Nov 16:54:56|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:54:57|[ADMIN_SUCCESS]127.0.0.1:3704 /extends?item=1
+Sun 18 Nov 16:54:57|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:55:00|[ADMIN_SUCCESS]127.0.0.1:3704 /extends?item=3
+Sun 18 Nov 16:55:00|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:55:02|[ADMIN_SUCCESS]127.0.0.1:3704 /extends?item=4
+Sun 18 Nov 16:55:02|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:55:13|[ADMIN_SUCCESS]127.0.0.1:3704 /process
+Sun 18 Nov 16:55:13|[ADMIN_SUCCESS]127.0.0.1:3704 /kangle.css
+Sun 18 Nov 16:55:14|[ADMIN_SUCCESS]127.0.0.1:3704 /process_kill?name=cmd:php-nts&user=:1&pid=620
+Sun 18 Nov 16:55:14|[ADMIN_SUCCESS]127.0.0.1:3731 /process
+Sun 18 Nov 16:55:14|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:55:15|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 16:56:05|[ADMIN_SUCCESS]127.0.0.1:3731 /acserver
+Sun 18 Nov 16:56:05|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:06|[ADMIN_SUCCESS]127.0.0.1:3731 /vhslist
+Sun 18 Nov 16:56:06|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:12|[ADMIN_SUCCESS]127.0.0.1:3731 /acserver
+Sun 18 Nov 16:56:12|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:14|[ADMIN_SUCCESS]127.0.0.1:3731 /extends?item=4
+Sun 18 Nov 16:56:14|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:25|[ADMIN_SUCCESS]127.0.0.1:3731 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 16:56:25|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:44|[ADMIN_SUCCESS]127.0.0.1:3731 /delcmd?name=php-nts
+Sun 18 Nov 16:56:44|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:48|[ADMIN_SUCCESS]127.0.0.1:3731 /process
+Sun 18 Nov 16:56:48|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:50|[ADMIN_SUCCESS]127.0.0.1:3731 /vhslist
+Sun 18 Nov 16:56:50|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:52|[ADMIN_SUCCESS]127.0.0.1:3731 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 16:56:52|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:53|[ADMIN_SUCCESS]127.0.0.1:3731 /vhlist?name=ssc&id=2
+Sun 18 Nov 16:56:53|[ADMIN_SUCCESS]127.0.0.1:3731 /kangle.css
+Sun 18 Nov 16:56:55|[ADMIN_SUCCESS]127.0.0.1:3731 /vhbase?action=redirectdelete&type=file_ext&value=php&name=ssc&id=2
+Sun 18 Nov 16:56:55|[ADMIN_SUCCESS]127.0.0.1:3758 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 16:56:55|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:56:56|[ADMIN_SUCCESS]127.0.0.1:3758 /accesslist?access_type=1
+Sun 18 Nov 16:56:56|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:56:57|[ADMIN_SUCCESS]127.0.0.1:3758 /acserver
+Sun 18 Nov 16:56:57|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:56:58|[ADMIN_SUCCESS]127.0.0.1:3758 /extends?item=3
+Sun 18 Nov 16:56:58|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:56:58|[ADMIN_SUCCESS]127.0.0.1:3758 /extends?item=4
+Sun 18 Nov 16:56:58|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:57:01|[ADMIN_SUCCESS]127.0.0.1:3758 /extends?item=4&action=edit&name=php-nts
+Sun 18 Nov 16:57:01|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:57:14|[ADMIN_SUCCESS]127.0.0.1:3758 /vhslist
+Sun 18 Nov 16:57:15|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:57:16|[ADMIN_SUCCESS]127.0.0.1:3758 /vhlist?id=0&name=ssc&t=0
+Sun 18 Nov 16:57:16|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:57:17|[ADMIN_SUCCESS]127.0.0.1:3758 /vhlist?name=ssc&id=2
+Sun 18 Nov 16:57:17|[ADMIN_SUCCESS]127.0.0.1:3758 /kangle.css
+Sun 18 Nov 16:57:54|[ADMIN_SUCCESS]127.0.0.1:3758 /vhbase?action=redirectadd&name=ssc&id=2
+Sun 18 Nov 16:57:54|[ADMIN_SUCCESS]127.0.0.1:3772 /vhlist?id=2&t=&name=ssc
+Sun 18 Nov 16:57:54|[ADMIN_SUCCESS]127.0.0.1:3772 /kangle.css
+Sun 18 Nov 16:59:40|listen *:80[tcp4] for http success
+Sun 18 Nov 16:59:40|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 16:59:40|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 16:59:40|Start success [pid=2844].
+Sun 18 Nov 16:59:44|cann't accept connect,errno=No error
+Sun 18 Nov 16:59:44|cann't accept connect,errno=No error
+Sun 18 Nov 16:59:44|cann't accept connect,errno=No error
+Sun 18 Nov 19:03:47|listen *:80[tcp4] for http success
+Sun 18 Nov 19:03:47|listen 127.0.0.1:3311[tcp4] for manage success
+Sun 18 Nov 19:03:47|listen 127.0.0.1:3333[tcp4] for http success
+Sun 18 Nov 19:03:47|Start success [pid=5836].
+Sun 18 Nov 19:03:50|[ADMIN_SUCCESS]127.0.0.1:2387 /
+Sun 18 Nov 19:03:50|[ADMIN_SUCCESS]127.0.0.1:2387 /left_menu
+Sun 18 Nov 19:03:50|[ADMIN_SUCCESS]127.0.0.1:2387 /main
+Sun 18 Nov 19:03:50|[ADMIN_SUCCESS]127.0.0.1:2387 /kangle.css
+Sun 18 Nov 19:03:50|[ADMIN_SUCCESS]127.0.0.1:2387 /kangle.css
+Sun 18 Nov 19:03:50|[ADMIN_SUCCESS]127.0.0.1:2389 /logo.gif
+Sun 18 Nov 19:03:51|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 19:09:48|[ADMIN_SUCCESS]127.0.0.1:2649 /accesslist?access_type=0
+Sun 18 Nov 19:09:48|[ADMIN_SUCCESS]127.0.0.1:2649 /kangle.css
+Sun 18 Nov 19:09:51|[ADMIN_SUCCESS]127.0.0.1:2649 /vhslist
+Sun 18 Nov 19:09:51|[ADMIN_SUCCESS]127.0.0.1:2649 /kangle.css
+Sun 18 Nov 19:09:53|[ADMIN_SUCCESS]127.0.0.1:2649 /vhlist?id=4&t=0
+Sun 18 Nov 19:09:53|[ADMIN_SUCCESS]127.0.0.1:2649 /kangle.css
+Sun 18 Nov 19:10:14|[ADMIN_SUCCESS]127.0.0.1:2649 /vhbase?action=vh_add&t=0
+Sun 18 Nov 19:10:14|[ADMIN_SUCCESS]127.0.0.1:2662 /vhlist?id=&t=0
+Sun 18 Nov 19:10:14|[ADMIN_SUCCESS]127.0.0.1:2662 /kangle.css
+Sun 18 Nov 19:10:19|[ADMIN_SUCCESS]127.0.0.1:2662 /vhlist?id=0&name=vvsiteadmin&t=0
+Sun 18 Nov 19:10:19|[ADMIN_SUCCESS]127.0.0.1:2662 /kangle.css
+Sun 18 Nov 19:10:20|[ADMIN_SUCCESS]127.0.0.1:2662 /vhlist?name=vvsiteadmin&id=2
+Sun 18 Nov 19:10:20|[ADMIN_SUCCESS]127.0.0.1:2662 /kangle.css
+Sun 18 Nov 19:10:26|[ADMIN_SUCCESS]127.0.0.1:2662 /vhbase?action=redirectadd&name=vvsiteadmin&id=2
+Sun 18 Nov 19:10:26|[ADMIN_SUCCESS]127.0.0.1:2676 /vhlist?id=2&t=&name=vvsiteadmin
+Sun 18 Nov 19:10:26|[ADMIN_SUCCESS]127.0.0.1:2676 /kangle.css
+Sun 18 Nov 20:26:22|rq = 00F1C6A8 connect to 127.0.0.1:2391 error code=504,msg=[Cann't send head to remote host],try count=1,last errno=2 No such file or directory,socket=1528
+Sun 18 Nov 20:33:02|rq = 00F1C410 connect to 127.0.0.1:2391 error code=504,msg=[Cann't send head to remote host],try count=1,last errno=2 No such file or directory,socket=1540
+Sun 18 Nov 21:18:42|rq = 00F1C6A8 connect to 127.0.0.1:2391 error code=504,msg=[Cann't send head to remote host],try count=1,last errno=2 No such file or directory,socket=1528
+Sun 18 Nov 21:25:40|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
+Sun 18 Nov 21:45:27|now create process ["E:\kangle-php-mysql\server\kangle-3.0\bin\extworker.exe" "../../php-5.3.8/php-cgi.exe"]
